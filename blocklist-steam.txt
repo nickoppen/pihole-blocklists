@@ -4,4 +4,4 @@
 0.0.0.0 steamgames.com
 0.0.0.0 steamusercontent.com
 0.0.0.0 steamstatic.com
-0.0.0.0 https://store.steampowered.com/
+0.0.0.0 store.steampowered.com
