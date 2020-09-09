@@ -2,3 +2,5 @@
 0.0.0.0 discordapp.com
 0.0.0.0 gateway.discord.gg
 0.0.0.0 status.discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.media
