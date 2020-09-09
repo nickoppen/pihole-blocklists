@@ -1,0 +1,6 @@
+0.0.0.0 steamcommunity.com
+0.0.0.0 steam.com
+0.0.0.0 steampowered.com
+0.0.0.0 steamgames.com
+0.0.0.0 steamusercontent.com
+0.0.0.0 steamstatic.com
