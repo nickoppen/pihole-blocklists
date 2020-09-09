@@ -5,3 +5,8 @@
 0.0.0.0 steamusercontent.com
 0.0.0.0 steamstatic.com
 0.0.0.0 store.steampowered.com
+0.0.0.0 steamcdn-a.akamaihd.net
+0.0.0.0 steamcommunity-a.akamaihd.net
+0.0.0.0 steamcontent.com
+0.0.0.0 steamuserimages-a.akamaihd.net
+0.0.0.0 valvesoftware.com
