@@ -6,4 +6,4 @@ Most of the domains came from: https://www.netify.ai/resources/applications whic
 
 For more see: https://github.com/crpietschmann/pi-hole-blocklist and https://github.com/gieljnssns/Social-media-Blocklists
 
-If you have additions, please pull request or just add an Issue.
+If you have additions, please add a pull request or just add an Issue.
