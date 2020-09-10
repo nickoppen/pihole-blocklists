@@ -1,0 +1,15 @@
+# still has 20 million users (apparently)
+0.0.0.0 myspace.com
+0.0.0.0 es.myspace.com
+0.0.0.0 profile.myspace.com
+0.0.0.0 viewmorepics.myspace.com
+0.0.0.0 collect.myspace.com
+0.0.0.0 lads.myspace.com
+0.0.0.0 apps.myspace.com
+0.0.0.0 br.myspace.com
+0.0.0.0 ca.myspace.com
+0.0.0.0 browseusers.myspace.com
+0.0.0.0 vidsearch.myspace.com
+0.0.0.0 sitemaps.myspace.com
+0.0.0.0 mobile.myspace.com
+0.0.0.0 www.myspace.com
