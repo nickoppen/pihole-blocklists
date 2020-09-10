@@ -1,0 +1,14 @@
+0.0.0.0 fetlife.com
+0.0.0.0 assets3.fetlife.com
+0.0.0.0 login.fetlife.com
+0.0.0.0 ass3.fetlife.com
+0.0.0.0 swww.fetlife.com
+0.0.0.0 assets.fetlife.com
+0.0.0.0 xxx.fetlife.com
+0.0.0.0 cdn2.fetlife.com
+0.0.0.0 assets4.fetlife.com
+0.0.0.0 w.fetlife.com
+0.0.0.0 images3.fetlife.com
+0.0.0.0 app.fetlife.com
+0.0.0.0 ads.fetlife.com
+0.0.0.0 images.fetlife.com
