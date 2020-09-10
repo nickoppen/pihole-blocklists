@@ -1,0 +1,14 @@
+# ----------------------------------------------------------
+# PI-HOLE BLOCKLIST: Viber (Amazon)
+# ----------------------------------------------------------
+0.0.0.0 viber.com
+0.0.0.0 invite.viber.com
+0.0.0.0 chats.viber.com
+0.0.0.0 spl.viber.com
+0.0.0.0 support.viber.com
+0.0.0.0 download.cdn.viber.com
+0.0.0.0 account.viber.com
+0.0.0.0 info.viber.com
+0.0.0.0 help.viber.com
+0.0.0.0 viberout-lp.viber.com
+0.0.0.0 download.viber.com
