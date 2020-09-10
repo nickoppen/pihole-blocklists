@@ -1,0 +1,9 @@
+0.0.0.0 badoo.com
+0.0.0.0 badootech.badoo.com
+0.0.0.0 p.badoo.com
+0.0.0.0 corp.badoo.com
+0.0.0.0 theproject.badoo.com
+0.0.0.0 us1.badoo.com
+0.0.0.0 corp.us1.badoo.com
+0.0.0.0 challenge.badoo.com
+0.0.0.0 eu1.badoo.com
