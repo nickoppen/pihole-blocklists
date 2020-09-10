@@ -1,0 +1,12 @@
+0.0.0.0 kiwibox.com
+0.0.0.0 beta.kiwibox.com
+0.0.0.0 mail.kiwibox.com
+0.0.0.0 images.kiwibox.com
+0.0.0.0 wiki.kiwibox.com
+0.0.0.0 adlog.kiwibox.com
+0.0.0.0 misc.kiwibox.com
+0.0.0.0 sister.kiwibox.com
+0.0.0.0 query.kiwibox.com
+0.0.0.0 mapi.kiwibox.com
+0.0.0.0 www-de.kiwibox.com
+0.0.0.0 www.kiwibox.com
