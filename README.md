@@ -1,6 +1,6 @@
 # pihole-blocklists
 
-A basic list of social media and messaging sites for use with the pi-hole ad-blocking software.
+A basic list of social media and messaging sites for use with the pi-hole ad-blocking software. Some sites have hundreds of sub-domains so are better suited to a wildcard blacklist (e.g. (\.|^)deviantart$).
 
 Domains can change quickly so the lists will soon be out of date. Test after loading!
 
