@@ -1,0 +1,6 @@
+0.0.0.0 the-dots.com
+0.0.0.0 www.the-dots.com
+0.0.0.0 css.the-dots.com
+0.0.0.0 proxy.the-dots.com
+0.0.0.0 check.the-dots.com
+0.0.0.0 api.the-dots.com
