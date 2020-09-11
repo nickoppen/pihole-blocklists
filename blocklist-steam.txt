@@ -10,3 +10,14 @@
 0.0.0.0 steamcontent.com
 0.0.0.0 steamuserimages-a.akamaihd.net
 0.0.0.0 valvesoftware.com
+0.0.0.0 client-download.steampowered.com
+0.0.0.0 update.client.steamcontent.akadns.net
+0.0.0.0 syd.client.steamcontent.akadns.net
+0.0.0.0 media4.steampowered.com
+0.0.0.0 api.steampowered.com
+0.0.0.0 ipv6check-udp.steamcontent.com
+0.0.0.0 ipv6check-http.steamcontent.com
+0.0.0.0 media.steampowered.com
+0.0.0.0 steamcdn-a.akamaihd.net
+0.0.0.0 steamstore-a.akamaihd.net
+0.0.0.0 steam-chat.com
