@@ -4,3 +4,4 @@
 0.0.0.0 status.discord.com
 0.0.0.0 discord.gg
 0.0.0.0 discord.media
+0.0.0.0 cdn.discordapp.com
