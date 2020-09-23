@@ -21,3 +21,4 @@
 0.0.0.0 steamcdn-a.akamaihd.net
 0.0.0.0 steamstore-a.akamaihd.net
 0.0.0.0 steam-chat.com
+0.0.0.0 crash.steampowered.com
