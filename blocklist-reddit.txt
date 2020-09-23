@@ -3,3 +3,4 @@
 0.0.0.0 reddit.map.fastly.net
 0.0.0.0 redditmedia.com
 0.0.0.0 redditstatic.com
+0.0.0.0 m.reddit.com
