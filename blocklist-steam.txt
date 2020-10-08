@@ -24,3 +24,6 @@
 0.0.0.0 crash.steampowered.com
 0.0.0.0 community.cloudflare.steamstatic.com
 0.0.0.0 clientconfig.akamai.steamstatic.com
+0.0.0.0 cm2-sgp1.cm.steampowered.com
+0.0.0.0 cm1-sgp1.cm.steampowered.com
+0.0.0.0 cm1-ord1.cm.steampowered.com
