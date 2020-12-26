@@ -7,3 +7,5 @@ Domains can change quickly so the lists will soon be out of date. Test after loa
 For more see: https://github.com/crpietschmann/pi-hole-blocklist and https://github.com/gieljnssns/Social-media-Blocklists
 
 If you have additions, please add a pull request or just add an Issue.
+
+For domains with lots of subdomains I use SecurityTrails.com. Free accounts are available for infrequent users and I've include a short python script to automatically create a blocklist from a given domain.
