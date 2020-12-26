@@ -1,6 +1,6 @@
 # pihole-blocklists
 
-A basic list of social media and messaging sites for use with the pi-hole ad-blocking software. Some sites have hundreds of sub-domains so are better suited to a wildcard blacklist (e.g. (\.|^)deviantart$).
+A basic list of social media and messaging sites for use with the pi-hole ad-blocking software. 
 
 Domains can change quickly so the lists will soon be out of date. Test after loading!
 
@@ -8,4 +8,4 @@ For more see: https://github.com/crpietschmann/pi-hole-blocklist and https://git
 
 If you have additions, please add a pull request or just add an Issue.
 
-For domains with lots of subdomains I use SecurityTrails.com. Free accounts are available for infrequent users and I've include a short python script to automatically create a blocklist from a given domain.
+Some sites have hundreds of sub-domains so are better suited to a wildcard blacklist (e.g. (\.|^)deviantart$). However, if there are lots of subdomains and you want to list them all individually, you can use SecurityTrails.com. Free accounts are available for infrequent users and I've include a short python script to automatically create a blocklist from a given domain.
