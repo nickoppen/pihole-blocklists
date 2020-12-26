@@ -1,3 +1,12 @@
+#
+# Virtual Private Networks are hard to block with a dns style blocker. It seems they use ip addresses directly.
+# These dns names are all of the subdomains of windscribe.com and by blocking them I hope to prevent the windscribe software
+# from obtaining the ip address in the first place.
+# I downloaded these domains from SecurityTrails.com on 26 Dec 2020. Chances are that they will change frequently.
+# I've also added 104.20.75.194 and 104.20.74.194 to my router's ACL.
+#
+0.0.0.0 windscribe.com
+0.0.0.0 www.windscribe.com
 0.0.0.0 blog.windscribe.com
 0.0.0.0 deu.windscribe.com
 0.0.0.0 tur.windscribe.com
