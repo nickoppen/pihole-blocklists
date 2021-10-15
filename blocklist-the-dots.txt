@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-the-dots.txt
 0.0.0.0 the-dots.com
 0.0.0.0 www.the-dots.com
 0.0.0.0 css.the-dots.com
