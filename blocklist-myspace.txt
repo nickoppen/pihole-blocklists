@@ -1,4 +1,5 @@
 # still has 20 million users (apparently)
+# https://nickoppen.github.io/pihole-blocklists/blocklist-myspace.txt
 0.0.0.0 myspace.com
 0.0.0.0 es.myspace.com
 0.0.0.0 profile.myspace.com
