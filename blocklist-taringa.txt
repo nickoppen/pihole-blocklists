@@ -1,4 +1,5 @@
 # Taringa.net from Brazil
+# https://nickoppen.github.io/pihole-blocklists/blocklist-taringa.txt
 0.0.0.0 taringa.net
 0.0.0.0 m.taringa.net
 0.0.0.0 net.taringa.net
