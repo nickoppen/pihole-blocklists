@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-reddit.txt
 0.0.0.0 redd.it
 0.0.0.0 reddit.com
 0.0.0.0 reddit.map.fastly.net
