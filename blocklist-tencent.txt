@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-tencent.txt
 0.0.0.0 gtimg.com
 0.0.0.0 idqqimg.com
 0.0.0.0 qlogo.cn
