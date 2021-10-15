@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-tinder.txt
 0.0.0.0 gotinder.com
 0.0.0.0 tinder.com
 0.0.0.0 tindersparks.com
