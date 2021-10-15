@@ -1,1 +1,2 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-kakao.txt
 0.0.0.0 kakao.com
