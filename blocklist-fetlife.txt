@@ -13,3 +13,4 @@
 0.0.0.0 app.fetlife.com
 0.0.0.0 ads.fetlife.com
 0.0.0.0 images.fetlife.com
+0.0.0.0 www.expolarecetta.fetlife.com
