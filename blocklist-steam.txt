@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-steam.txt
 0.0.0.0 steamcommunity.com
 0.0.0.0 steam.com
 0.0.0.0 steampowered.com
