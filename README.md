@@ -1,6 +1,6 @@
 # pihole-blocklists
 
-A basic list of social media and messaging sites for use with the pi-hole ad-blocking software. 
+A basic list of social media and messaging sites for use with the pi-hole ad-blocking software. Download and use locally or add to your ad-lists using the permalink in the top of the file.
 
 Domains can change quickly so the lists will soon be out of date. Test after loading!
 
