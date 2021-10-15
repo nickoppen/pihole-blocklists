@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-discord.txt
 0.0.0.0 discord.com
 0.0.0.0 discordapp.com
 0.0.0.0 gateway.discord.gg
