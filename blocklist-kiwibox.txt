@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-kiwibox.txt
 0.0.0.0 kiwibox.com
 0.0.0.0 beta.kiwibox.com
 0.0.0.0 mail.kiwibox.com
