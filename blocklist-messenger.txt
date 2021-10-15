@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-messenger.txt
 0.0.0.0 m.me
 0.0.0.0 messenger.com
 0.0.0.0 www.m.me
