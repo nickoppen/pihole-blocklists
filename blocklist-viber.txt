@@ -1,6 +1,5 @@
-# ----------------------------------------------------------
 # PI-HOLE BLOCKLIST: Viber (Amazon)
-# ----------------------------------------------------------
+# https://nickoppen.github.io/pihole-blocklists/blocklist-viber.txt
 0.0.0.0 viber.com
 0.0.0.0 invite.viber.com
 0.0.0.0 chats.viber.com
