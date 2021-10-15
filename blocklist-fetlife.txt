@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-fetlife.txt
 0.0.0.0 fetlife.com
 0.0.0.0 assets3.fetlife.com
 0.0.0.0 login.fetlife.com
