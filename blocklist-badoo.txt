@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-badoo.txt
 0.0.0.0 badoo.com
 0.0.0.0 badootech.badoo.com
 0.0.0.0 p.badoo.com
