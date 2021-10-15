@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-tagged.txt
 0.0.0.0 tagged.com
 0.0.0.0 about.tagged.com
 0.0.0.0 support.tagged.com
