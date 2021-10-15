@@ -1,3 +1,4 @@
+# https://nickoppen.github.io/pihole-blocklists/blocklist-yy.txt
 0.0.0.0 yy.com
 0.0.0.0 about.yy.com
 0.0.0.0 3g.yy.com
