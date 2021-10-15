@@ -5,6 +5,8 @@
 # I downloaded these domains from SecurityTrails.com on 26 Dec 2020. Chances are that they will change frequently.
 # I've also added 104.20.75.194 and 104.20.74.194 to my router's ACL.
 #
+# permalink to this file: https://nickoppen.github.io/pihole-blocklists/vpn-windscribe-blocklist.txt
+#
 0.0.0.0 windscribe.com
 0.0.0.0 www.windscribe.com
 0.0.0.0 blog.windscribe.com
