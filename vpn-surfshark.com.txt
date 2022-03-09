@@ -1,5 +1,4 @@
-# no satisfactory permalink yet
-# download and use as a local file: file:///home/pi/<some local folder>/surfShark.txt
+# https://nickoppen.github.io/pihole-blocklists/vpn-surfshark.com.txt
 0.0.0.0 surfshark.com
 0.0.0.0 support.surfshark.com
 0.0.0.0 account.surfshark.com
