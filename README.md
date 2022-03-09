@@ -2,6 +2,8 @@
 
 A basic list of social media and messaging sites for use with the pi-hole ad-blocking software. Download and use locally or add to your ad-lists using the permalink in the top of the file.
 
+To add a file to your Adlist append the file name above to https://nickoppen.github.io/pihole-blocklists/ e.g. https://nickoppen.github.io/pihole-blocklists/vpn-surfshark.com.txt
+
 Domains can change quickly so the lists will soon be out of date. Test after loading!
 
 For more see: https://github.com/crpietschmann/pi-hole-blocklist and https://github.com/gieljnssns/Social-media-Blocklists
