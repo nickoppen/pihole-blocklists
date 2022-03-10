@@ -1,15 +1,8 @@
-# Taringa.net from Brazil
-# https://nickoppen.github.io/pihole-blocklists/blocklist-taringa.txt
+# taringa.net
+
 0.0.0.0 taringa.net
-0.0.0.0 m.taringa.net
-0.0.0.0 net.taringa.net
-0.0.0.0 br.taringa.net
-0.0.0.0 classic.taringa.net
-0.0.0.0 anuncie.taringa.net
-0.0.0.0 ncs.taringa.net
-0.0.0.0 juegos.taringa.net
-0.0.0.0 images.taringa.net
-0.0.0.0 ardownload.taringa.net
-0.0.0.0 root.taringa.net
+0.0.0.0 img.info.taringa.net
+0.0.0.0 img.contact.taringa.net
+0.0.0.0 r.contact.taringa.net
+0.0.0.0 r.info.taringa.net
 0.0.0.0 taringa.com
-0.0.0.0 www.taringa.com

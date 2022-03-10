@@ -1,10 +1,13 @@
-# https://nickoppen.github.io/pihole-blocklists/blocklist-badoo.txt
+# badoo.com
+
 0.0.0.0 badoo.com
-0.0.0.0 badootech.badoo.com
-0.0.0.0 p.badoo.com
-0.0.0.0 corp.badoo.com
-0.0.0.0 theproject.badoo.com
-0.0.0.0 us1.badoo.com
-0.0.0.0 corp.us1.badoo.com
-0.0.0.0 challenge.badoo.com
-0.0.0.0 eu1.badoo.com
+0.0.0.0 www.lampes-de-bureau.badoo.com
+0.0.0.0 consent.badoo.com
+0.0.0.0 www.bundeskellereiinspektion.badoo.com
+0.0.0.0 www.sicalo.badoo.com
+0.0.0.0 www.akma.badoo.com
+0.0.0.0 www.dnavi.badoo.com
+0.0.0.0 cpmotors.cert.users.weu1.badoo.com
+0.0.0.0 www.brand.lasexydance.eueu1.badoo.com
+0.0.0.0 templefix.corp.badoo.com
+0.0.0.0 server1.qa4.dr.drynites.it.badoo.com

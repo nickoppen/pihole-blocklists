@@ -1,10 +1,4 @@
-# from China
-# https://nickoppen.github.io/pihole-blocklists/blocklist-renren.txt
-0.0.0.0 page.renren.com
+# renren.com
+
 0.0.0.0 renren.com
-0.0.0.0 blog.renren.com
-0.0.0.0 share.renren.com
-0.0.0.0 widget.renren.com
-0.0.0.0 mobile.renren.com
-0.0.0.0 photo.renren.com
-0.0.0.0 life.renren.com
+0.0.0.0 u3.l.renren.com

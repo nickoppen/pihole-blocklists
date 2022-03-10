@@ -1,0 +1,10 @@
+# protonvpn.ch
+
+0.0.0.0 protonvpn.ch
+0.0.0.0 www.protonvpn.ch
+0.0.0.0 account-api.protonvpn.ch
+0.0.0.0 api.protonvpn.ch
+0.0.0.0 pki.protonvpn.ch
+0.0.0.0 ns3.protonvpn.ch
+0.0.0.0 ns1.protonvpn.ch
+0.0.0.0 ns2.protonvpn.ch

@@ -1,0 +1,15 @@
+# whispersystems.org
+
+0.0.0.0 whispersystems.org
+0.0.0.0 support.whispersystems.org
+0.0.0.0 textsecure-service-staging-ca.whispersystems.org
+0.0.0.0 turn-us-west.whispersystems.org
+0.0.0.0 giphy-proxy-production.whispersystems.org
+0.0.0.0 textsecure-service-staging.whispersystems.org
+0.0.0.0 textsecure-service.whispersystems.org
+0.0.0.0 turn1.whispersystems.org
+0.0.0.0 turn-eu-central-1.whispersystems.org
+0.0.0.0 bithub.whispersystems.org
+0.0.0.0 turn-us-east.whispersystems.org
+0.0.0.0 textsecure-service-ca.whispersystems.org
+0.0.0.0 www.whispersystems.org

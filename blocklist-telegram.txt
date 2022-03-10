@@ -1,13 +1,13 @@
-# https://nickoppen.github.io/pihole-blocklists/blocklist-telegramorg.txt
-0.0.0.0 t.me
+# telegram.org
+
 0.0.0.0 telegram.org
 0.0.0.0 kws3-1.web.telegram.org
 0.0.0.0 zws2.web.telegram.org
 0.0.0.0 zws1.web.telegram.org
 0.0.0.0 zws2-1.web.telegram.org
 0.0.0.0 kws4-1.web.telegram.org
-0.0.0.0 kws2-1.web.telegram.org
 0.0.0.0 kws3.web.telegram.org
+0.0.0.0 kws2-1.web.telegram.org
 0.0.0.0 zws4-1.web.telegram.org
 0.0.0.0 kws1.web.telegram.org
 0.0.0.0 zws3.web.telegram.org
@@ -19,3 +19,5 @@
 0.0.0.0 zws4.web.telegram.org
 0.0.0.0 zws5.web.telegram.org
 0.0.0.0 kws5.web.telegram.org
+0.0.0.0 t.me
+0.0.0.0 dc2t.rtmp.t.me

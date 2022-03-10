@@ -1,16 +1,11 @@
-# https://nickoppen.github.io/pihole-blocklists/blocklist-fetlife.txt
+# fetlife.com
+
 0.0.0.0 fetlife.com
-0.0.0.0 assets3.fetlife.com
-0.0.0.0 login.fetlife.com
-0.0.0.0 ass3.fetlife.com
-0.0.0.0 swww.fetlife.com
-0.0.0.0 assets.fetlife.com
-0.0.0.0 xxx.fetlife.com
-0.0.0.0 cdn2.fetlife.com
-0.0.0.0 assets4.fetlife.com
-0.0.0.0 w.fetlife.com
-0.0.0.0 images3.fetlife.com
-0.0.0.0 app.fetlife.com
-0.0.0.0 ads.fetlife.com
-0.0.0.0 images.fetlife.com
+0.0.0.0 www.secure-rtc.fetlife.com
+0.0.0.0 db.c0.b1.a2.top.fetlife.com
+0.0.0.0 www-test.history-ecovida.fetlife.com
+0.0.0.0 autodiscover.eichhorn.fetlife.com
+0.0.0.0 www.zjhxyb.fetlife.com
 0.0.0.0 www.expolarecetta.fetlife.com
+0.0.0.0 www.clumsyninja.fetlife.com
+0.0.0.0 www.hessen-luftbildservice.fetlife.com

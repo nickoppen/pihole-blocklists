@@ -1,7 +1,7 @@
-# https://nickoppen.github.io/pihole-blocklists/blocklist-deviantart.txt
-# also use (\.|^)deviantart$ in a regex blacklist filter
+# deviantart.com
+
 0.0.0.0 deviantart.com
-0.0.0.0 st.deviantart.net
-0.0.0.0 www.deviantart.com
-0.0.0.0 st.deviantart.net
-0.0.0.0 a.deviantart.net
+0.0.0.0 www.shiffrin.deviantart.com
+0.0.0.0 webmail.imagescovid.deviantart.com
+0.0.0.0 pages.emailppp40.deviantart.com
+0.0.0.0 qa.originvotre.deviantart.com
