@@ -1,5 +1,5 @@
 # qq.com is the messaging app from tencent
-# this file will be merged into the tencent blocklist on the next refresh
+# this file will be renamed on the next refresh
 
 0.0.0.0 gtimg.com
 0.0.0.0 mat1.gtimg.com
