@@ -1,4 +1,4 @@
-# adotmob.com
+# A list of advertisers taken from a very honest web site
 
 0.0.0.0 adotmob.com
 0.0.0.0 docs.adotmob.com
