@@ -1,0 +1,10 @@
+# hotspotshield.com
+
+0.0.0.0 hotspotshield.com
+0.0.0.0 origin.app.hotspotshield.com
+0.0.0.0 stage2.app.hotspotshield.com
+0.0.0.0 qa.hotspotshield.com
+0.0.0.0 stage-app.hotspotshield.com
+0.0.0.0 stage.app.hotspotshield.com
+0.0.0.0 stage2-app.hotspotshield.com
+0.0.0.0 url8598.my.hotspotshield.com
