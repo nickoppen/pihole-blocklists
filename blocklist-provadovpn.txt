@@ -1,4 +1,0 @@
-# provadovpn.com
-
-0.0.0.0 provadovpn.com
-0.0.0.0 ww01.provadovpn.com
