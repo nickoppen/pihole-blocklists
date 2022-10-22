@@ -1,6 +1,8 @@
 # pihole-blocklists
 
-A basic list of social media and messaging sites for use with the [pi-hole](https://pi-hole.net) ad-blocking software. I believe that the lists will also work with [AdguardHome](https://github.com/AdguardTeam/AdGuardHome) and [Blocky](https://github.com/0xERR0R/blocky).
+Lists of social media, messaging and now gaming sites for use with the [pi-hole](https://pi-hole.net) ad-blocking software. I believe that the lists will also work with [AdguardHome](https://github.com/AdguardTeam/AdGuardHome) and [Blocky](https://github.com/0xERR0R/blocky).
+
+The gaming sites are a very blunt instument. The will probably block most if not all games by that publisher. Use the white list if you want to block most and leave a few open. 
 
 To add a file to a pi-hole Adlist append the file name above to https://nickoppen.github.io/pihole-blocklists/ e.g. https://nickoppen.github.io/pihole-blocklists/vpn-surfshark.com.txt I'm not sure how to link to ad lists for other blockers.
 
