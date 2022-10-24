@@ -4,7 +4,7 @@ Lists of social media, messaging and now gaming sites for use with the [pi-hole]
 
 The gaming sites are a very blunt instument. They will probably block most if not all games by that publisher. Use the white list if you want to block most and leave a few open. 
 
-To add a file to a pi-hole Adlist add the file above to the address: https://nickoppen.github.io/pihole-blocklists/. I'm not sure how to link to ad lists for other blockers.
+To add a file to a pi-hole Adlist add the file name above to the address: https://nickoppen.github.io/pihole-blocklists/. I'm not sure how to link to ad lists for other blockers.
 
 For more see: https://github.com/crpietschmann/pi-hole-blocklist and https://github.com/gieljnssns/Social-media-Blocklists
 
