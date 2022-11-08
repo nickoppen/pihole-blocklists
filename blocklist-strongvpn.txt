@@ -40,8 +40,8 @@
 0.0.0.0 mail.strongvpn.com
 0.0.0.0 api.wg.strongvpn.com
 0.0.0.0 autodiscover.strongvpn.com
-0.0.0.0 ch.strongvpn.com
 0.0.0.0 email-assets.cn.strongvpn.com
+0.0.0.0 ch.strongvpn.com
 0.0.0.0 test.strongvpn.com
 0.0.0.0 trinity.strongvpn.com
 0.0.0.0 intranet-stg.strongvpn.com
@@ -51,8 +51,8 @@
 0.0.0.0 intranet.dev.strongvpn.com
 0.0.0.0 cf.strongvpn.com
 0.0.0.0 www.strongvpn.com
-0.0.0.0 email-assets.strongvpn.com
 0.0.0.0 lite4.strongvpn.com
+0.0.0.0 email-assets.strongvpn.com
 0.0.0.0 ios.strongvpn.com
 0.0.0.0 lite5.strongvpn.com
 0.0.0.0 localhost.strongvpn.com

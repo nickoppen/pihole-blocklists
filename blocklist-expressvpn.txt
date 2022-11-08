@@ -18,8 +18,8 @@
 0.0.0.0 affiliates.api.expressvpn.com
 0.0.0.0 apis-hk-8.expressvpn.com
 0.0.0.0 smon.expressvpn.com
-0.0.0.0 frontend.recov.expressvpn.com
 0.0.0.0 public.payments.expressvpn.com
+0.0.0.0 frontend.recov.expressvpn.com
 0.0.0.0 public.payments.recov.expressvpn.com
 0.0.0.0 apis-chi-8.expressvpn.com
 0.0.0.0 serveradmin.expressvpn.com
@@ -32,8 +32,10 @@
 0.0.0.0 influx.expressvpn.com
 0.0.0.0 affiliates.recov.expressvpn.com
 0.0.0.0 o1.outbound-email.expressvpn.com
+0.0.0.0 apis.recov.expressvpn.com
 0.0.0.0 apidisco-aka.expressvpn.com
 0.0.0.0 fe-aw-defra-3.expressvpn.com
+0.0.0.0 desktop.updates.expressvpn.com
 0.0.0.0 be-okta.recov.expressvpn.com
 0.0.0.0 fe-aw-ausyd-1.expressvpn.com
 0.0.0.0 integration.recov.expressvpn.com

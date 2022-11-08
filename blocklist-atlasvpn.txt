@@ -9,6 +9,7 @@
 0.0.0.0 contact.atlasvpn.com
 0.0.0.0 coronavirus.atlasvpn.com
 0.0.0.0 downloads.atlasvpn.com
+0.0.0.0 click.atlasvpn.com
 0.0.0.0 pay.atlasvpn.com
 0.0.0.0 locator.atlasvpn.com
 0.0.0.0 core.atlasvpn.com
