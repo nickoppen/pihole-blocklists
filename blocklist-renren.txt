@@ -1,4 +1,5 @@
 # renren.com
 
 0.0.0.0 renren.com
+0.0.0.0 gongke.admin.renren.com
 0.0.0.0 u3.l.renren.com

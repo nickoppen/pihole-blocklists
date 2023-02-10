@@ -1,11 +1,18 @@
 # fetlife.com
 
 0.0.0.0 fetlife.com
+0.0.0.0 www.zahradni-nabytek.fetlife.com
+0.0.0.0 www.terraudit.fetlife.com
 0.0.0.0 www.secure-rtc.fetlife.com
+0.0.0.0 www.hairproducts.fetlife.com
+0.0.0.0 n2.perfumesnaweb.fetlife.com
 0.0.0.0 db.c0.b1.a2.top.fetlife.com
+0.0.0.0 www.akupoker.fetlife.com
 0.0.0.0 www-test.history-ecovida.fetlife.com
 0.0.0.0 autodiscover.eichhorn.fetlife.com
+0.0.0.0 www.cpg.stg.fetlife.com
 0.0.0.0 www.zjhxyb.fetlife.com
 0.0.0.0 www.expolarecetta.fetlife.com
 0.0.0.0 www.clumsyninja.fetlife.com
 0.0.0.0 www.hessen-luftbildservice.fetlife.com
+0.0.0.0 www.sptest144s.fetlife.com

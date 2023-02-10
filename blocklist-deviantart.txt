@@ -1,7 +1,20 @@
 # deviantart.com
 
 0.0.0.0 deviantart.com
+0.0.0.0 www.groenenweer.deviantart.com
 0.0.0.0 www.shiffrin.deviantart.com
+0.0.0.0 dhamrai.dhaka.deviantart.com
+0.0.0.0 www.appuploads.deviantart.com
+0.0.0.0 www.strandhuisje.deviantart.com
 0.0.0.0 webmail.imagescovid.deviantart.com
 0.0.0.0 pages.emailppp40.deviantart.com
+0.0.0.0 eds.em.bw.deviantart.com
+0.0.0.0 www.jawattus.deviantart.com
 0.0.0.0 qa.originvotre.deviantart.com
+0.0.0.0 www.donnapp.deviantart.com
+0.0.0.0 ahmetselcuk.cadillacbrony.deviantart.com
+0.0.0.0 apcc-exch01.clerk.deviantart.com
+0.0.0.0 www.zvezdyonline.deviantart.com
+0.0.0.0 o8.ssmtp1k.deviantart.com
+0.0.0.0 o4.sstreamk.deviantart.com
+0.0.0.0 omnimetric.preview.ns47.deviantart.com

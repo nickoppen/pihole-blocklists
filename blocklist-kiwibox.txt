@@ -1,7 +1,7 @@
 # kiwibox.com
 
 0.0.0.0 kiwibox.com
-0.0.0.0 beta.kiwibox.com
+0.0.0.0 h.kiwibox.com
 0.0.0.0 im2.kiwibox.com
 0.0.0.0 images.kiwibox.com
 0.0.0.0 services.kiwibox.com
@@ -10,7 +10,6 @@
 0.0.0.0 staging.kiwibox.com
 0.0.0.0 arimages.kiwibox.com
 0.0.0.0 img.kiwibox.com
-0.0.0.0 h.kiwibox.com
 0.0.0.0 e.kiwibox.com
 0.0.0.0 articles.kiwibox.com
 0.0.0.0 test.kiwibox.com
@@ -18,7 +17,9 @@
 0.0.0.0 query.kiwibox.com
 0.0.0.0 express.kiwibox.com
 0.0.0.0 www5.kiwibox.com
+0.0.0.0 d.kiwibox.com
 0.0.0.0 mapi.kiwibox.com
+0.0.0.0 avatar.kiwibox.com
 0.0.0.0 m.kiwibox.com
 0.0.0.0 ug1.kiwibox.com
 0.0.0.0 games.kiwibox.com
@@ -46,10 +47,12 @@
 0.0.0.0 www-de.kiwibox.com
 0.0.0.0 ns1.kiwibox.com
 0.0.0.0 mx1.kiwibox.com
+0.0.0.0 beta.kiwibox.com
 0.0.0.0 im1.kiwibox.com
 0.0.0.0 adserv.kiwibox.com
 0.0.0.0 ns2.kiwibox.com
 0.0.0.0 office.kiwibox.com
+0.0.0.0 nyc.kiwibox.com
 0.0.0.0 adlog.kiwibox.com
 0.0.0.0 misc.kiwibox.com
 0.0.0.0 wiki.kiwibox.com

@@ -1,7 +1,14 @@
 # taringa.net
 
 0.0.0.0 taringa.net
+0.0.0.0 login.mia-staging.taringa.net
 0.0.0.0 img.info.taringa.net
+0.0.0.0 www.contact.taringa.net
+0.0.0.0 www.info.taringa.net
+0.0.0.0 mia.taringa.net
+0.0.0.0 mia-staging.taringa.net
+0.0.0.0 mia-integration.taringa.net
+0.0.0.0 login.mia-integration.taringa.net
 0.0.0.0 img.contact.taringa.net
 0.0.0.0 r.contact.taringa.net
 0.0.0.0 r.info.taringa.net

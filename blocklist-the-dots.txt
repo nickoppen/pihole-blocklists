@@ -1,20 +1,24 @@
 # the-dots.com
 
 0.0.0.0 the-dots.com
+0.0.0.0 images1.the-dots.com
+0.0.0.0 graph.the-dots.com
 0.0.0.0 test-api.the-dots.com
 0.0.0.0 images3.the-dots.com
 0.0.0.0 stg4.the-dots.com
 0.0.0.0 qa7.the-dots.com
 0.0.0.0 qa5.the-dots.com
 0.0.0.0 qa6.the-dots.com
+0.0.0.0 front.the-dots.com
 0.0.0.0 qa2.the-dots.com
-0.0.0.0 images1.the-dots.com
 0.0.0.0 js.the-dots.com
 0.0.0.0 stg3.the-dots.com
 0.0.0.0 assets.the-dots.com
 0.0.0.0 images2.the-dots.com
+0.0.0.0 production.the-dots.com
 0.0.0.0 qa1.the-dots.com
 0.0.0.0 gilfoyle.the-dots.com
+0.0.0.0 api-docs.the-dots.com
 0.0.0.0 adminman.the-dots.com
 0.0.0.0 www.the-dots.com
 0.0.0.0 api.the-dots.com
@@ -24,6 +28,7 @@
 0.0.0.0 check.the-dots.com
 0.0.0.0 qa4.the-dots.com
 0.0.0.0 staging-i4dbez9sosult0.the-dots.com
+0.0.0.0 development.the-dots.com
 0.0.0.0 stg2.the-dots.com
 0.0.0.0 css.the-dots.com
 0.0.0.0 vt.the-dots.com
