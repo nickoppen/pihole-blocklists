@@ -236,8 +236,8 @@
 0.0.0.0 houser.rockstargames.com
 0.0.0.0 ping-sv4.net.rockstargames.com
 0.0.0.0 monday.bugstar.rockstargames.com
-0.0.0.0 crews-rdr2-prod.ros.rockstargames.com
 0.0.0.0 dev-gameserver-2-rdr2.ros.rockstargames.com
+0.0.0.0 crews-rdr2-prod.ros.rockstargames.com
 0.0.0.0 devrws.rockstargames.com
 0.0.0.0 stage-cert.store.rockstargames.com
 0.0.0.0 tm-gta3-prod.ros.rockstargames.com
@@ -355,8 +355,8 @@
 0.0.0.0 stageprod.conductor.ros.rockstargames.com
 0.0.0.0 de.stage-prod.sc.rockstargames.com
 0.0.0.0 conductor-gta5-dev.ros.rockstargames.com
-0.0.0.0 jobsadmin.rockstargames.com
 0.0.0.0 prs55-prod.ros.rockstargames.com
+0.0.0.0 jobsadmin.rockstargames.com
 0.0.0.0 dev-int.rockstargames.com
 0.0.0.0 vanity.rockstargames.com
 0.0.0.0 lync.rockstargames.com
@@ -605,10 +605,10 @@
 0.0.0.0 cs-rgl-cert.ros.rockstargames.com
 0.0.0.0 rage-locator-cloud.rockstargames.com
 0.0.0.0 spap-rdr2-cert.ros.rockstargames.com
-0.0.0.0 stage-cert-catalog-cloud.rockstargames.com
 0.0.0.0 cs-gtavc-dev.ros.rockstargames.com
 0.0.0.0 repostar.rockstargames.com
 0.0.0.0 workday-adc.bugstar.rockstargames.com
+0.0.0.0 stage-cert-catalog-cloud.rockstargames.com
 0.0.0.0 dev-locator-cloud.rockstargames.com
 0.0.0.0 downloads1.rockstargames.com
 0.0.0.0 tm-gta3-dev.ros.rockstargames.com
@@ -647,8 +647,8 @@
 0.0.0.0 auth-rgl-dev.ros.rockstargames.com
 0.0.0.0 zh.socialclub.rockstargames.com
 0.0.0.0 oobvpn-east.rockstargames.com
-0.0.0.0 rage-catalog-cloud.rockstargames.com
 0.0.0.0 prod1.rockstargames.com
+0.0.0.0 rage-catalog-cloud.rockstargames.com
 0.0.0.0 cs-rdr2-dev.ros.rockstargames.com
 0.0.0.0 gtm.rockstargames.com
 0.0.0.0 tm-arc-prod.ros.rockstargames.com
@@ -662,9 +662,9 @@
 0.0.0.0 ewrpdc1-web1-arc-devlive.ros.rockstargames.com
 0.0.0.0 auth-rdr2-prod.ros.rockstargames.com
 0.0.0.0 scauth.rockstargames.com
-0.0.0.0 vanity.employee.store.rockstargames.com
 0.0.0.0 mxout1.rockstargames.com
 0.0.0.0 store-develop.rockstargames.com
+0.0.0.0 vanity.employee.store.rockstargames.com
 0.0.0.0 cs-gtavc-prod.ros.rockstargames.com
 0.0.0.0 it.preprod.sc.rockstargames.com
 0.0.0.0 australian.rockstargames.com
@@ -673,8 +673,8 @@
 0.0.0.0 stage-dev.sc.rockstargames.com
 0.0.0.0 ykval.rockstargames.com
 0.0.0.0 feed-gta5-stagedev.ros.rockstargames.com
-0.0.0.0 ewrsession2-rdr2-stagedev.ros.rockstargames.com
 0.0.0.0 prodbeta.sc.rockstargames.com
+0.0.0.0 ewrsession2-rdr2-stagedev.ros.rockstargames.com
 0.0.0.0 conductor-rdr2-cert.ros.rockstargames.com
 0.0.0.0 cs-gta4-dev.ros.rockstargames.com
 0.0.0.0 load.sc.rockstargames.com
@@ -697,9 +697,9 @@
 0.0.0.0 posse-rdr2-cert.ros.rockstargames.com
 0.0.0.0 i.rockstargames.com
 0.0.0.0 ewrsession1-rdr2-stagedev.ros.rockstargames.com
+0.0.0.0 devlive.ros.rockstargames.com
 0.0.0.0 ewrmatchmaking1-arc-devlive.ros.rockstargames.com
 0.0.0.0 store-integration.rockstargames.com
-0.0.0.0 devlive.ros.rockstargames.com
 0.0.0.0 prod.realtimevc.ros.rockstargames.com
 0.0.0.0 realtimevc.ros.rockstargames.com
 0.0.0.0 webmail.rockstargames.com
