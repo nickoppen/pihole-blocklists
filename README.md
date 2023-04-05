@@ -6,7 +6,7 @@ The gaming sites are a very blunt instument. They will probably block most if no
 
 To add a file to a pi-hole Adlist add the file name above to the address: https://nickoppen.github.io/pihole-blocklists/. I'm not sure how to link to ad lists for other blockers.
 
-For more see: https://github.com/crpietschmann/pi-hole-blocklist and https://github.com/gieljnssns/Social-media-Blocklists
+For more see: https://github.com/crpietschmann/pi-hole-blocklist,  https://github.com/gieljnssns/Social-media-Blocklists and Steven Blacks excellent [hosts](https://github.com/StevenBlack/hosts) project.
 
 If you have additions, please add a pull request or just add an Issue.
 
