@@ -27,3 +27,4 @@
 0.0.0.0 my.speedify.com
 0.0.0.0 secure.speedify.com
 0.0.0.0 appscreens.speedify.com
+0.0.0.0 geoip.speedify.com

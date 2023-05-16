@@ -1,10 +1,18 @@
 # privateinternetaccess.com
 
 0.0.0.0 privateinternetaccess.com
+0.0.0.0 virginia.privateinternetaccess.com
+0.0.0.0 web2.privateinternetaccess.com
+0.0.0.0 web-master.privateinternetaccess.com
 0.0.0.0 pia-dev-lp.privateinternetaccess.com
 0.0.0.0 o1.email.privateinternetaccess.com
+0.0.0.0 dev-www.privateinternetaccess.com
+0.0.0.0 dev-assets-cms.privateinternetaccess.com
+0.0.0.0 staging-1-77b8e3a311bcb6ec5e96.privateinternetaccess.com
 0.0.0.0 email2.accounts.privateinternetaccess.com
 0.0.0.0 pia-lp-dev.privateinternetaccess.com
 0.0.0.0 o10.ptr9576.offers.privateinternetaccess.com
 0.0.0.0 staging-helpdesk-horizon.privateinternetaccess.com
+0.0.0.0 staging-4-77b8e3a311bcb6ec5e96.privateinternetaccess.com
+0.0.0.0 news.privateinternetaccess.com
 0.0.0.0 links.news.privateinternetaccess.com

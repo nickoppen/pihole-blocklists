@@ -5,6 +5,7 @@
 0.0.0.0 team.atlasvpn.com
 0.0.0.0 breach.atlasvpn.com
 0.0.0.0 bndw.atlasvpn.com
+0.0.0.0 coupons.atlasvpn.com
 0.0.0.0 promotions.atlasvpn.com
 0.0.0.0 contact.atlasvpn.com
 0.0.0.0 coronavirus.atlasvpn.com
@@ -22,8 +23,8 @@
 0.0.0.0 lo.atlasvpn.com
 0.0.0.0 count.atlasvpn.com
 0.0.0.0 partners.atlasvpn.com
-0.0.0.0 server.atlasvpn.com
 0.0.0.0 www.coronavirus.atlasvpn.com
+0.0.0.0 server.atlasvpn.com
 0.0.0.0 get.atlasvpn.com
 0.0.0.0 repo.atlasvpn.com
 0.0.0.0 url3307.atlasvpn.com
