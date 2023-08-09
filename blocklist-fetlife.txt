@@ -11,8 +11,12 @@
 0.0.0.0 www-test.history-ecovida.fetlife.com
 0.0.0.0 autodiscover.eichhorn.fetlife.com
 0.0.0.0 www.cpg.stg.fetlife.com
+0.0.0.0 6.adminorder.payment.com.github.device2796871.login.fetlife.com
+0.0.0.0 staginga.fetlife.com
 0.0.0.0 www.zjhxyb.fetlife.com
+0.0.0.0 stagingu.fetlife.com
 0.0.0.0 www.expolarecetta.fetlife.com
 0.0.0.0 www.clumsyninja.fetlife.com
 0.0.0.0 www.hessen-luftbildservice.fetlife.com
+0.0.0.0 mail7.mail.a2.sni172101.top.fetlife.com
 0.0.0.0 www.sptest144s.fetlife.com

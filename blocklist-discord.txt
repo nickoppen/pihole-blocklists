@@ -17,8 +17,8 @@
 0.0.0.0 click.discord.com
 0.0.0.0 snowsgiving-tale-2022-ko.discord.com
 0.0.0.0 o16.ptr7471.discord.com
-0.0.0.0 snowsgiving-tale-2022-ru.discord.com
 0.0.0.0 zendesk2.discord.com
+0.0.0.0 snowsgiving-tale-2022-ru.discord.com
 0.0.0.0 o23.ptr1336.discord.com
 0.0.0.0 snowsgiving-tale-2022-nl.discord.com
 0.0.0.0 snowsgiving-tale-2022-en.discord.com
@@ -38,6 +38,7 @@
 0.0.0.0 events.discord.com
 0.0.0.0 snowsgiving-tale-2022-it.discord.com
 0.0.0.0 ilmanu.discord.com
+0.0.0.0 crawl-35-237-4-214.ptr.discord.com
 0.0.0.0 o19.ptr4192.discord.com
 0.0.0.0 o14.ptr6344.discord.com
 0.0.0.0 o22.ptr2763.discord.com

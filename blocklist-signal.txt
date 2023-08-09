@@ -9,6 +9,7 @@
 0.0.0.0 chat.signal.org
 0.0.0.0 chat.staging.reflector.signal.org
 0.0.0.0 replication3-staging.directory.signal.org
+0.0.0.0 cdn3-staging.signal.org
 0.0.0.0 turn3.signal.org
 0.0.0.0 chat.staging.signal.org
 0.0.0.0 sfu.us-east-1.voip.signal.org
@@ -17,6 +18,7 @@
 0.0.0.0 cdn-ca.signal.org
 0.0.0.0 build-artifacts.signal.org
 0.0.0.0 api.westeurope.az.infra-staging.directory.signal.org
+0.0.0.0 cdn3.signal.org
 0.0.0.0 storage.signal.org
 0.0.0.0 cdn-staging.signal.org
 0.0.0.0 registration.signal.org
@@ -31,10 +33,10 @@
 0.0.0.0 chat.reflector.signal.org
 0.0.0.0 cdn2.signal.org
 0.0.0.0 api-staging.backup.signal.org
-0.0.0.0 directory.signal.org
 0.0.0.0 science.signal.org
-0.0.0.0 api.az.infra.directory.signal.org
+0.0.0.0 directory.signal.org
 0.0.0.0 ud-chat.signal.org
+0.0.0.0 api.az.infra.directory.signal.org
 0.0.0.0 sfu.staging.test.voip.signal.org
 0.0.0.0 stripe.api.signal.org
 0.0.0.0 internal.signal.org
@@ -65,12 +67,15 @@
 0.0.0.0 cdn2-staging.signal.org
 0.0.0.0 updates2.signal.org
 0.0.0.0 cdn.signal.org
+0.0.0.0 svr2.signal.org
 0.0.0.0 replication.az.infra.directory.signal.org
 0.0.0.0 sfu.staging.us-west-1.voip.signal.org
+0.0.0.0 turn3.test.voip.signal.org
+0.0.0.0 svr2.reflector.signal.org
 0.0.0.0 sfu.test.voip.signal.org
 0.0.0.0 stripe.api.staging.signal.org
-0.0.0.0 replication.westeurope.az.infra.directory.signal.org
 0.0.0.0 turn2.voip.signal.org
+0.0.0.0 replication.westeurope.az.infra.directory.signal.org
 0.0.0.0 cdsi.signal.org
 0.0.0.0 replication.directory.signal.org
 0.0.0.0 registration.staging.signal.org

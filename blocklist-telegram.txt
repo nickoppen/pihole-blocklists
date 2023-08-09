@@ -13,6 +13,7 @@
 0.0.0.0 zws3.web.telegram.org
 0.0.0.0 kws5-1.web.telegram.org
 0.0.0.0 zws3-1.web.telegram.org
+0.0.0.0 ip-149-154-161-249.ptr.telegram.org
 0.0.0.0 kws1-1.web.telegram.org
 0.0.0.0 zws1-1.web.telegram.org
 0.0.0.0 kws4.web.telegram.org

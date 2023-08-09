@@ -22,8 +22,8 @@
 0.0.0.0 static.tagged.com
 0.0.0.0 gcal.tagged.com
 0.0.0.0 upload.tagged.com
-0.0.0.0 chattack-01.tagged.com
 0.0.0.0 secure-static.tagged.com
+0.0.0.0 chattack-01.tagged.com
 0.0.0.0 m2.tagged.com
 0.0.0.0 jira.tagged.com
 0.0.0.0 qvkk1.tagged.com
@@ -34,8 +34,8 @@
 0.0.0.0 content.tagged.com
 0.0.0.0 login.tagged.com
 0.0.0.0 rewards.tagged.com
-0.0.0.0 raccoon.tagged.com
 0.0.0.0 test.tagged.com
+0.0.0.0 raccoon.tagged.com
 0.0.0.0 cb2.tagged.com
 0.0.0.0 stats.tagged.com
 0.0.0.0 chattack-02.tagged.com

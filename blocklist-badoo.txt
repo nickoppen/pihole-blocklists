@@ -2,12 +2,14 @@
 
 0.0.0.0 badoo.com
 0.0.0.0 ns5.blog12--hbh.badoo.com
+0.0.0.0 www.summerstudents.badoo.com
 0.0.0.0 www.lampes-de-bureau.badoo.com
 0.0.0.0 marc.parked.cicada--cname.badoo.com
 0.0.0.0 consent.badoo.com
 0.0.0.0 www.bundeskellereiinspektion.badoo.com
 0.0.0.0 citrix.svedea.badoo.com
 0.0.0.0 www.st2.packs.badoo.com
+0.0.0.0 editorial.stage.oc.ntc.badoo.com
 0.0.0.0 www.sicalo.badoo.com
 0.0.0.0 www.dufell.translate.badoo.com
 0.0.0.0 www.akma.badoo.com
@@ -17,14 +19,16 @@
 0.0.0.0 www.vexc10.tr04.badoo.com
 0.0.0.0 s2-cloud.infra-gss2ns1.badoo.com
 0.0.0.0 0mfehdhj2a26bj6t.besokpolen.badoo.com
+0.0.0.0 www.cotton-tree.badoo.com
 0.0.0.0 www.wwevideos.us1.badoo.com
 0.0.0.0 www.homebuyersolutions.badoo.com
 0.0.0.0 www.a-093554594.sophie.badoo.com
 0.0.0.0 www.brand.lasexydance.eueu1.badoo.com
 0.0.0.0 cherif.tininha20-choukou.badoo.com
+0.0.0.0 www.order-entry.badoo.com
 0.0.0.0 templefix.corp.badoo.com
 0.0.0.0 www.dg-service-gep-lp.badoo.com
 0.0.0.0 www.syd301.bda.cloud.translate.badoo.com
 0.0.0.0 server1.qa4.dr.drynites.it.badoo.com
-0.0.0.0 autodiscover.aic-uae.attieh.badoo.com
 0.0.0.0 master.unifiedapac.m.badoo.com
+0.0.0.0 autodiscover.aic-uae.attieh.badoo.com
