@@ -8,6 +8,7 @@
 0.0.0.0 replication2.directory.signal.org
 0.0.0.0 chat.signal.org
 0.0.0.0 chat.staging.reflector.signal.org
+0.0.0.0 backend1.svr3.staging.reflector.signal.org
 0.0.0.0 replication3-staging.directory.signal.org
 0.0.0.0 cdn3-staging.signal.org
 0.0.0.0 turn3.signal.org
@@ -53,6 +54,7 @@
 0.0.0.0 turn3.voip.signal.org
 0.0.0.0 api.directory.signal.org
 0.0.0.0 sfu.ap-south-1.voip.signal.org
+0.0.0.0 backend1.svr3.staging.signal.org
 0.0.0.0 braintree.api.staging.signal.org
 0.0.0.0 cdsi.gram-test.signal.org
 0.0.0.0 api-staging.directory.signal.org

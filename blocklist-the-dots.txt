@@ -4,8 +4,8 @@
 0.0.0.0 images1.the-dots.com
 0.0.0.0 graph.the-dots.com
 0.0.0.0 test-api.the-dots.com
-0.0.0.0 frieze.the-dots.com
 0.0.0.0 images3.the-dots.com
+0.0.0.0 frieze.the-dots.com
 0.0.0.0 stg4.the-dots.com
 0.0.0.0 qa7.the-dots.com
 0.0.0.0 qa5.the-dots.com

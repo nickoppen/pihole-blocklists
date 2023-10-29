@@ -15,6 +15,7 @@
 0.0.0.0 chat.tagged.com
 0.0.0.0 tools.tagged.com
 0.0.0.0 auth.gateway.tagged.com
+0.0.0.0 gsites.tagged.com
 0.0.0.0 economy.gateway.tagged.com
 0.0.0.0 www.about.tagged.com
 0.0.0.0 push.tagged.com
@@ -34,8 +35,10 @@
 0.0.0.0 content.tagged.com
 0.0.0.0 login.tagged.com
 0.0.0.0 rewards.tagged.com
+0.0.0.0 direct-login-static.tagged.com
 0.0.0.0 test.tagged.com
 0.0.0.0 raccoon.tagged.com
+0.0.0.0 direct-photos.tagged.com
 0.0.0.0 cb2.tagged.com
 0.0.0.0 stats.tagged.com
 0.0.0.0 chattack-02.tagged.com

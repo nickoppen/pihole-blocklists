@@ -50,7 +50,9 @@
 0.0.0.0 snowsgiving-tale-2022-sv-se.discord.com
 0.0.0.0 seo.discord.com
 0.0.0.0 o24.ptr4166.discord.com
+0.0.0.0 crawl-35-196-132-85.ptr.discord.com
 0.0.0.0 updates.discord.com
+0.0.0.0 crawl-35-227-62-178.ptr.discord.com
 0.0.0.0 snowsgiving-tale-2022-da.discord.com
 0.0.0.0 ffxvanehub.discord.com
 0.0.0.0 snowsgiving-tale-2022.discord.com

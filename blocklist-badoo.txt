@@ -1,12 +1,14 @@
 # badoo.com
 
 0.0.0.0 badoo.com
+0.0.0.0 www.servson5minutosvson5minutosente.badoo.com
 0.0.0.0 ns5.blog12--hbh.badoo.com
 0.0.0.0 www.summerstudents.badoo.com
 0.0.0.0 www.lampes-de-bureau.badoo.com
 0.0.0.0 marc.parked.cicada--cname.badoo.com
 0.0.0.0 consent.badoo.com
 0.0.0.0 www.bundeskellereiinspektion.badoo.com
+0.0.0.0 www.gustavoromps96romps.badoo.com
 0.0.0.0 citrix.svedea.badoo.com
 0.0.0.0 www.st2.packs.badoo.com
 0.0.0.0 editorial.stage.oc.ntc.badoo.com
@@ -18,6 +20,7 @@
 0.0.0.0 ns3.jordan-svo2.badoo.com
 0.0.0.0 www.vexc10.tr04.badoo.com
 0.0.0.0 s2-cloud.infra-gss2ns1.badoo.com
+0.0.0.0 www.falcaodetetive.mongo1.badoo.com
 0.0.0.0 0mfehdhj2a26bj6t.besokpolen.badoo.com
 0.0.0.0 www.cotton-tree.badoo.com
 0.0.0.0 www.wwevideos.us1.badoo.com

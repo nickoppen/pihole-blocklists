@@ -9,7 +9,11 @@
 0.0.0.0 mia.taringa.net
 0.0.0.0 mia-staging.taringa.net
 0.0.0.0 mia-integration.taringa.net
+0.0.0.0 moderation-app.taringa.net
 0.0.0.0 login.taringa.net
+0.0.0.0 moderation-app-integration.taringa.net
+0.0.0.0 metabase.internal.taringa.net
+0.0.0.0 moderation-app-staging.taringa.net
 0.0.0.0 login.mia-integration.taringa.net
 0.0.0.0 home.taringa.net
 0.0.0.0 img.contact.taringa.net
