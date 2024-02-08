@@ -1,15 +1,18 @@
 # speedify.com
 
 0.0.0.0 speedify.com
-0.0.0.0 support.speedify.com
 0.0.0.0 msupport.speedify.com
-0.0.0.0 downloads.speedify.com
+0.0.0.0 support.speedify.com
 0.0.0.0 apidocs.speedify.com
 0.0.0.0 www.speedify.com
+0.0.0.0 order-testing.speedify.com
 0.0.0.0 updates.speedify.com
-0.0.0.0 status.speedify.com
+0.0.0.0 attrib-staging.speedify.com
 0.0.0.0 newhotness.speedify.com
+0.0.0.0 status.speedify.com
 0.0.0.0 signup.speedify.com
+0.0.0.0 downloads2.speedify.com
+0.0.0.0 order-staging.speedify.com
 0.0.0.0 my2.speedify.com
 0.0.0.0 cp.speedify.com
 0.0.0.0 community.speedify.com
@@ -17,11 +20,14 @@
 0.0.0.0 sdk.speedify.com
 0.0.0.0 api.speedify.com
 0.0.0.0 cp-staging.speedify.com
+0.0.0.0 accounts.speedify.com
 0.0.0.0 www1.speedify.com
 0.0.0.0 my-staging.speedify.com
 0.0.0.0 unsubscribe.speedify.com
 0.0.0.0 attrib.speedify.com
+0.0.0.0 downloads.speedify.com
 0.0.0.0 legacy-my-staging.speedify.com
+0.0.0.0 order.speedify.com
 0.0.0.0 subscriptions.speedify.com
 0.0.0.0 legacy-my.speedify.com
 0.0.0.0 my.speedify.com

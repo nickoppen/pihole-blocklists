@@ -2,11 +2,10 @@
 
 0.0.0.0 betternet.co
 0.0.0.0 support.betternet.co
-0.0.0.0 get.betternet.co
 0.0.0.0 www.betternet.co
 0.0.0.0 ci.betternet.co
-0.0.0.0 gpr.betternet.co
 0.0.0.0 origin.app.betternet.co
+0.0.0.0 gpr.betternet.co
 0.0.0.0 stage2.app.betternet.co
 0.0.0.0 qa3.betternet.co
 0.0.0.0 email.betternet.co
@@ -18,14 +17,15 @@
 0.0.0.0 test.get.betternet.co
 0.0.0.0 stage.app.betternet.co
 0.0.0.0 secure.betternet.co
-0.0.0.0 stage2-get.betternet.co
 0.0.0.0 redis.betternet.co
+0.0.0.0 stage2-get.betternet.co
 0.0.0.0 aws-get.betternet.co
 0.0.0.0 get.origin.betternet.co
 0.0.0.0 prom.betternet.co
 0.0.0.0 qa-hss.betternet.co
 0.0.0.0 staging.betternet.co
 0.0.0.0 url9183.betternet.co
+0.0.0.0 get.betternet.co
 0.0.0.0 smtp.betternet.co
 0.0.0.0 ossim.betternet.co
 0.0.0.0 mail.betternet.co

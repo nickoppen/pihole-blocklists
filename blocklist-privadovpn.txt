@@ -3,13 +3,14 @@
 0.0.0.0 privadovpn.com
 0.0.0.0 blog.privadovpn.com
 0.0.0.0 signup.privadovpn.com
+0.0.0.0 support.privadovpn.com
 0.0.0.0 api.vdf.privadovpn.com
 0.0.0.0 www.privadovpn.com
 0.0.0.0 prx.vdf.privadovpn.com
 0.0.0.0 update-beta.vdf.privadovpn.com
 0.0.0.0 snow.privadovpn.com
-0.0.0.0 query-api-android.avira.privadovpn.com
 0.0.0.0 dnsleak.privadovpn.com
+0.0.0.0 query-api-android.avira.privadovpn.com
 0.0.0.0 api.console.privadovpn.com
 0.0.0.0 sentry.privadovpn.com
 0.0.0.0 partners.privadovpn.com
@@ -37,7 +38,7 @@
 0.0.0.0 dns.privadovpn.com
 0.0.0.0 api-scp.privadovpn.com
 0.0.0.0 o14.ptr7346.privadovpn.com
-0.0.0.0 support.privadovpn.com
+0.0.0.0 vpndb.privadovpn.com
 0.0.0.0 code.privadovpn.com
 0.0.0.0 nodata.dns.privadovpn.com
 0.0.0.0 vdf.privadovpn.com
