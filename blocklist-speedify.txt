@@ -4,6 +4,7 @@
 0.0.0.0 msupport.speedify.com
 0.0.0.0 support.speedify.com
 0.0.0.0 apidocs.speedify.com
+0.0.0.0 appscreens-old.speedify.com
 0.0.0.0 www.speedify.com
 0.0.0.0 order-testing.speedify.com
 0.0.0.0 updates.speedify.com
@@ -19,6 +20,7 @@
 0.0.0.0 get.speedify.com
 0.0.0.0 sdk.speedify.com
 0.0.0.0 api.speedify.com
+0.0.0.0 api-staging.speedify.com
 0.0.0.0 cp-staging.speedify.com
 0.0.0.0 accounts.speedify.com
 0.0.0.0 www1.speedify.com

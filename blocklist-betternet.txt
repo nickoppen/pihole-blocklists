@@ -2,6 +2,7 @@
 
 0.0.0.0 betternet.co
 0.0.0.0 support.betternet.co
+0.0.0.0 stage2.payment.betternet.co
 0.0.0.0 www.betternet.co
 0.0.0.0 ci.betternet.co
 0.0.0.0 origin.app.betternet.co
@@ -9,9 +10,11 @@
 0.0.0.0 stage2.app.betternet.co
 0.0.0.0 qa3.betternet.co
 0.0.0.0 email.betternet.co
+0.0.0.0 origin.payment.betternet.co
 0.0.0.0 test.secure.betternet.co
 0.0.0.0 vancouver.betternet.co
 0.0.0.0 qa.betternet.co
+0.0.0.0 payment.betternet.co
 0.0.0.0 qa-vault.betternet.co
 0.0.0.0 app.betternet.co
 0.0.0.0 test.get.betternet.co
@@ -30,5 +33,6 @@
 0.0.0.0 ossim.betternet.co
 0.0.0.0 mail.betternet.co
 0.0.0.0 aht.betternet.co
+0.0.0.0 stage.payment.betternet.co
 0.0.0.0 mailing.betternet.co
 0.0.0.0 stage-get.betternet.co

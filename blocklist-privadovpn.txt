@@ -7,6 +7,7 @@
 0.0.0.0 api.vdf.privadovpn.com
 0.0.0.0 www.privadovpn.com
 0.0.0.0 prx.vdf.privadovpn.com
+0.0.0.0 sentry-dev.privadovpn.com
 0.0.0.0 update-beta.vdf.privadovpn.com
 0.0.0.0 snow.privadovpn.com
 0.0.0.0 dnsleak.privadovpn.com
@@ -23,6 +24,8 @@
 0.0.0.0 ns1dnsleak.privadovpn.com
 0.0.0.0 affiliates.privadovpn.com
 0.0.0.0 status.privadovpn.com
+0.0.0.0 utils.privadovpn.com
+0.0.0.0 r.privadovpn.com
 0.0.0.0 check.privadovpn.com
 0.0.0.0 update.vdf.privadovpn.com
 0.0.0.0 check2.console.privadovpn.com

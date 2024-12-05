@@ -27,6 +27,7 @@
 0.0.0.0 dev2.strongvpn.com
 0.0.0.0 origin.strongvpn.com
 0.0.0.0 dsar.strongvpn.com
+0.0.0.0 www-origin.strongvpn.com
 0.0.0.0 lite2.strongvpn.com
 0.0.0.0 api.wg-origin.strongvpn.com
 0.0.0.0 status.strongvpn.com
@@ -49,8 +50,8 @@
 0.0.0.0 wg.strongvpn.com
 0.0.0.0 cf.intranet.strongvpn.com
 0.0.0.0 consul-stg.strongvpn.com
-0.0.0.0 cf.strongvpn.com
 0.0.0.0 intranet.dev.strongvpn.com
+0.0.0.0 cf.strongvpn.com
 0.0.0.0 www.strongvpn.com
 0.0.0.0 lite4.strongvpn.com
 0.0.0.0 email-assets.strongvpn.com
@@ -61,8 +62,8 @@
 0.0.0.0 speedtest.strongvpn.com
 0.0.0.0 affiliates2.strongvpn.com
 0.0.0.0 banners.strongvpn.com
-0.0.0.0 forum.strongvpn.com
 0.0.0.0 lite3.strongvpn.com
+0.0.0.0 forum.strongvpn.com
 0.0.0.0 old.strongvpn.com
 0.0.0.0 affiliates.strongvpn.com
 0.0.0.0 my.strongvpn.com
