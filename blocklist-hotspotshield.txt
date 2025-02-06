@@ -18,8 +18,8 @@
 0.0.0.0 www.tf-test.hotspotshield.com
 0.0.0.0 s1.hotspotshield.com
 0.0.0.0 stage-www.hotspotshield.com
-0.0.0.0 snap.hotspotshield.com
 0.0.0.0 qa.hotspotshield.com
+0.0.0.0 snap.hotspotshield.com
 0.0.0.0 stage2-account.hotspotshield.com
 0.0.0.0 eu.hotspotshield.com
 0.0.0.0 s2.hotspotshield.com
@@ -35,8 +35,8 @@
 0.0.0.0 af-377.stage.hotspotshield.com
 0.0.0.0 amptest.hotspotshield.com
 0.0.0.0 stage2-order.hotspotshield.com
-0.0.0.0 uk.hotspotshield.com
 0.0.0.0 get.hotspotshield.com
+0.0.0.0 uk.hotspotshield.com
 0.0.0.0 lp.hotspotshield.com
 0.0.0.0 origin-www.hotspotshield.com
 0.0.0.0 us.hotspotshield.com
@@ -62,8 +62,8 @@
 0.0.0.0 get.dev.hotspotshield.com
 0.0.0.0 dev.repo-tf.hotspotshield.com
 0.0.0.0 www.landing.hotspotshield.com
-0.0.0.0 do.hotspotshield.com
 0.0.0.0 account.origin.hotspotshield.com
+0.0.0.0 do.hotspotshield.com
 0.0.0.0 wptest.hotspotshield.com
 0.0.0.0 order.origin.hotspotshield.com
 0.0.0.0 qa-www.hotspotshield.com
