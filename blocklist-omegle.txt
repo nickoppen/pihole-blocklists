@@ -1,8 +1,8 @@
 # omegle.com
 
 0.0.0.0 omegle.com
-0.0.0.0 logs.omegle.com
 0.0.0.0 lady.omegle.com
+0.0.0.0 logs.omegle.com
 0.0.0.0 front42.omegle.com
 0.0.0.0 www.omegle.com
 0.0.0.0 front16.omegle.com
@@ -14,8 +14,8 @@
 0.0.0.0 front28.omegle.com
 0.0.0.0 front4.omegle.com
 0.0.0.0 front26.omegle.com
-0.0.0.0 rtmfp.omegle.com
 0.0.0.0 chatserv.omegle.com
+0.0.0.0 rtmfp.omegle.com
 0.0.0.0 wawadmin.omegle.com
 0.0.0.0 front46.omegle.com
 0.0.0.0 front3.omegle.com
@@ -23,8 +23,8 @@
 0.0.0.0 front18.omegle.com
 0.0.0.0 front43.omegle.com
 0.0.0.0 front37.omegle.com
-0.0.0.0 front38.omegle.com
 0.0.0.0 front24.omegle.com
+0.0.0.0 front38.omegle.com
 0.0.0.0 front23.omegle.com
 0.0.0.0 front17.omegle.com
 0.0.0.0 waw1.omegle.com
@@ -47,8 +47,8 @@
 0.0.0.0 front29.omegle.com
 0.0.0.0 front15.omegle.com
 0.0.0.0 front44.omegle.com
-0.0.0.0 front40.omegle.com
 0.0.0.0 front14.omegle.com
+0.0.0.0 front40.omegle.com
 0.0.0.0 front9.omegle.com
 0.0.0.0 front34.omegle.com
 0.0.0.0 front13.omegle.com
@@ -63,8 +63,10 @@
 0.0.0.0 front30.omegle.com
 0.0.0.0 front2.omegle.com
 0.0.0.0 omegle.fun
+0.0.0.0 activity.omegle.fun
 0.0.0.0 api-2022.omegle.fun
 0.0.0.0 api.omegle.fun
 0.0.0.0 apitest.omegle.fun
 0.0.0.0 www.omegle.fun
+0.0.0.0 api-web.omegle.fun
 0.0.0.0 mail.omegle.fun

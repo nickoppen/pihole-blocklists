@@ -1,6 +1,3 @@
-# facebook.com
-
-0.0.0.0 facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 developers.facebook.com
 0.0.0.0 web.facebook.com
@@ -2001,7 +1998,6 @@
 0.0.0.0 synthetic-e2e-shivedge-sli-shv-01-bru2.facebook.com
 0.0.0.0 katerra.facebook.com
 0.0.0.0 scimtest.m.facebook.com
-0.0.0.0 instagram.com
 0.0.0.0 help.instagram.com
 0.0.0.0 platform.instagram.com
 0.0.0.0 business.instagram.com
