@@ -2,7 +2,7 @@
 
 Lists of social media, messaging and now gaming sites for use with the [pi-hole](https://pi-hole.net) ad-blocking software. I believe that the lists will also work with [AdguardHome](https://github.com/AdguardTeam/AdGuardHome) and [Blocky](https://github.com/0xERR0R/blocky).
 
-If you want to block individual sites load the individual blocklist. To block all sites in a category load the unified, i.e. unifiedMessagingLists.txt, unifiedVpnLists.txt etc.
+If you want to block individual sites load the individual blocklist. To block all sites in a category load the unified, i.e. unifiedMessagingLists.txt, unifiedVpnLists.txt etc. The unified lists will appear as I refresh the individual lists.
 
 The gaming sites are a very blunt instrument. They will probably block most if not all games by that publisher. Use the white list if you want to block most and leave a few open. 
 
