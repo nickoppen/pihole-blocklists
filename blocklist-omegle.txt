@@ -23,8 +23,8 @@
 0.0.0.0 front18.omegle.com
 0.0.0.0 front43.omegle.com
 0.0.0.0 front37.omegle.com
-0.0.0.0 front24.omegle.com
 0.0.0.0 front38.omegle.com
+0.0.0.0 front24.omegle.com
 0.0.0.0 front23.omegle.com
 0.0.0.0 front17.omegle.com
 0.0.0.0 waw1.omegle.com

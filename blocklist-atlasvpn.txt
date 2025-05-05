@@ -17,6 +17,7 @@
 0.0.0.0 pay.atlasvpn.com
 0.0.0.0 locator.atlasvpn.com
 0.0.0.0 core.atlasvpn.com
+0.0.0.0 etl.atlasvpn.com
 0.0.0.0 www.atlasvpn.com
 0.0.0.0 dh.atlasvpn.com
 0.0.0.0 account.atlasvpn.com
@@ -32,8 +33,8 @@
 0.0.0.0 partners.atlasvpn.com
 0.0.0.0 server.atlasvpn.com
 0.0.0.0 www.coronavirus.atlasvpn.com
-0.0.0.0 repo.atlasvpn.com
 0.0.0.0 zendesk3.atlasvpn.com
+0.0.0.0 repo.atlasvpn.com
 0.0.0.0 url3307.atlasvpn.com
 0.0.0.0 hermes.atlasvpn.com
 0.0.0.0 shop.atlasvpn.com

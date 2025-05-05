@@ -7,6 +7,7 @@
 0.0.0.0 appscreens-old.speedify.com
 0.0.0.0 www.speedify.com
 0.0.0.0 order-testing.speedify.com
+0.0.0.0 miri.speedify.com
 0.0.0.0 updates.speedify.com
 0.0.0.0 attrib-staging.speedify.com
 0.0.0.0 newhotness.speedify.com

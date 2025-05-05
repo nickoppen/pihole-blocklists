@@ -25,8 +25,8 @@
 0.0.0.0 www.about.tagged.com
 0.0.0.0 push.tagged.com
 0.0.0.0 web.tagged.com
-0.0.0.0 static.tagged.com
 0.0.0.0 gcal.tagged.com
+0.0.0.0 static.tagged.com
 0.0.0.0 upload.tagged.com
 0.0.0.0 chattack-01.tagged.com
 0.0.0.0 secure-static.tagged.com
@@ -52,11 +52,11 @@
 0.0.0.0 m.luv.tagged.com
 0.0.0.0 luv.tagged.com
 0.0.0.0 stats.tagged.com
-0.0.0.0 chattack-02.tagged.com
 0.0.0.0 messaging.tagged.com
+0.0.0.0 chattack-02.tagged.com
 0.0.0.0 direct-login.tagged.com
-0.0.0.0 healthcheck.tagged.com
 0.0.0.0 video-api.tagged.com
+0.0.0.0 healthcheck.tagged.com
 0.0.0.0 ns2.tagged.com
 0.0.0.0 login-static.tagged.com
 0.0.0.0 tagtest.tagged.com
