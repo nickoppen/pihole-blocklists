@@ -17,6 +17,7 @@
 0.0.0.0 www.jobs.ioi.dk
 0.0.0.0 mc-account.ioi.dk
 0.0.0.0 dev-account.ioi.dk
+0.0.0.0 cisionone-email.comms.ioi.dk
 0.0.0.0 lyncdiscover.ioi.dk
 0.0.0.0 doc-account.ioi.dk
 0.0.0.0 store-int.ioi.dk
@@ -32,7 +33,9 @@
 0.0.0.0 dev-api.ioi.dk
 0.0.0.0 ns1.ioi.dk
 0.0.0.0 job.ioi.dk
+0.0.0.0 argocd.smog.ioi.dk
 0.0.0.0 sip.ioi.dk
+0.0.0.0 grpc.argocd.smog.ioi.dk
 0.0.0.0 dev21-account.ioi.dk
 0.0.0.0 careers.ioi.dk
 0.0.0.0 gitea.online.ioi.dk
@@ -54,6 +57,7 @@
 0.0.0.0 dev-identity.ioi.dk
 0.0.0.0 press.ioi.dk
 0.0.0.0 prod-identity.ioi.dk
+0.0.0.0 telemetry.smog.ioi.dk
 0.0.0.0 smtp.ioi.dk
 0.0.0.0 cms.stage.ioi.dk
 0.0.0.0 cert-identity.ioi.dk
@@ -79,8 +83,8 @@
 0.0.0.0 net5-account.ioi.dk
 0.0.0.0 dev21-identity.ioi.dk
 0.0.0.0 madev-identity.ioi.dk
-0.0.0.0 apply.ioi.dk
 0.0.0.0 prod-account.ioi.dk
+0.0.0.0 apply.ioi.dk
 0.0.0.0 gateway.ioi.dk
 0.0.0.0 hmc01.ioi.dk
 0.0.0.0 hitman.io
@@ -94,10 +98,11 @@
 0.0.0.0 cert-auth.hitman.io
 0.0.0.0 api.liveanalytics.hitman.io
 0.0.0.0 webcontent.hitman.io
+0.0.0.0 test-auth.hitman.io
 0.0.0.0 auth.hitman.io
 0.0.0.0 hitmancom-dev.hitman.io
-0.0.0.0 ps4-service.hitman.io
 0.0.0.0 petertesthm3metrics.hitman.io
+0.0.0.0 ps4-service.hitman.io
 0.0.0.0 beta-service.hitman.io
 0.0.0.0 pc-service.hitman.io
 0.0.0.0 alpha-service.hitman.io

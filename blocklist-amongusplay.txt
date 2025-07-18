@@ -1,8 +1,8 @@
 # amongusplay.online
 
 0.0.0.0 amongusplay.online
-0.0.0.0 cpanel.amongusplay.online
 0.0.0.0 cpcalendars.amongusplay.online
+0.0.0.0 cpanel.amongusplay.online
 0.0.0.0 n.amongusplay.online
 0.0.0.0 www.amongusplay.online
 0.0.0.0 whm.amongusplay.online
