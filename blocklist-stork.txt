@@ -122,8 +122,8 @@
 0.0.0.0 apps.stork.com
 0.0.0.0 storkeucmg.stork.com
 0.0.0.0 centix.stork.com
-0.0.0.0 iris.stork.com
 0.0.0.0 autodiscover.sts.stork.com
+0.0.0.0 iris.stork.com
 0.0.0.0 bptest.qsportal.stork.com
 0.0.0.0 myplace.stork.com
 0.0.0.0 sci.stork.com
@@ -140,8 +140,8 @@
 0.0.0.0 prod-game.goodville.io
 0.0.0.0 loki.cybertranslate.goodville.io
 0.0.0.0 frontend-develop.cybertranslate.goodville.io
-0.0.0.0 argocd.stage.goodville.io
 0.0.0.0 opensearch-test.stage.goodville.io
+0.0.0.0 argocd.stage.goodville.io
 0.0.0.0 gitlab.sandbox.cybertranslate.goodville.io
 0.0.0.0 gitlab.prod.goodville.io
 0.0.0.0 backend.cybertranslate.goodville.io
@@ -157,13 +157,13 @@
 0.0.0.0 prod-admin-2020.goodville.io
 0.0.0.0 web-admin-2023.stage.goodville.io
 0.0.0.0 argocd.cybertranslate.goodville.io
-0.0.0.0 prod-admin-2023.goodville.io
 0.0.0.0 rabbitmq.stage.goodville.io
+0.0.0.0 prod-admin-2023.goodville.io
 0.0.0.0 wiki.stage.goodville.io
 0.0.0.0 prod-purchase.goodville.io
 0.0.0.0 kibana.goodville.io
-0.0.0.0 alertmanager.stage.goodville.io
 0.0.0.0 redisinsight.stage.goodville.io
+0.0.0.0 alertmanager.stage.goodville.io
 0.0.0.0 loki.stage.goodville.io
 0.0.0.0 airflow.goodville.io
 0.0.0.0 bastion.stage.goodville.io
@@ -174,8 +174,8 @@
 0.0.0.0 frontend.sandbox.cybertranslate.goodville.io
 0.0.0.0 backend-develop.cybertranslate.goodville.io
 0.0.0.0 eks.stage.goodville.io
-0.0.0.0 bastion.cybertranslate.goodville.io
 0.0.0.0 pgadmin.stage.goodville.io
+0.0.0.0 bastion.cybertranslate.goodville.io
 0.0.0.0 www.goodville.io
 0.0.0.0 eks-cluster-test.stage.goodville.io
 0.0.0.0 bots-ui-2023.stage.goodville.io

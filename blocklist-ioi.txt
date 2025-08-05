@@ -83,8 +83,8 @@
 0.0.0.0 net5-account.ioi.dk
 0.0.0.0 dev21-identity.ioi.dk
 0.0.0.0 madev-identity.ioi.dk
-0.0.0.0 prod-account.ioi.dk
 0.0.0.0 apply.ioi.dk
+0.0.0.0 prod-account.ioi.dk
 0.0.0.0 gateway.ioi.dk
 0.0.0.0 hmc01.ioi.dk
 0.0.0.0 hitman.io
@@ -107,6 +107,7 @@
 0.0.0.0 pc-service.hitman.io
 0.0.0.0 alpha-service.hitman.io
 0.0.0.0 cert-liveteam.hitman.io
+0.0.0.0 www-test.hitman.io
 0.0.0.0 scxboxone-service.hitman.io
 0.0.0.0 liveteam.hitman.io
 0.0.0.0 stadia2-service.hitman.io
