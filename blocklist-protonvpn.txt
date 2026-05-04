@@ -1835,3 +1835,6 @@
 0.0.0.0 sg-38.protonvpn.com
 0.0.0.0 us-fl-49.protonvpn.com
 0.0.0.0 protonvpn.sh
+0.0.0.0 vpncdn.protonweb.com
+0.0.0.0 protonvpn.com
+0.0.0.0 vpn-api.proton.me
