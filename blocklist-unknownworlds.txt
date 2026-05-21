@@ -1,5 +1,7 @@
 # unknownworlds.com
 
+0.0.0.0 subnauticagame.com
+0.0.0.0 www.subnauticagame.com
 0.0.0.0 unknownworlds.com
 0.0.0.0 forums.unknownworlds.com
 0.0.0.0 subnautica.unknownworlds.com
