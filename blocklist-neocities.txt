@@ -1,5 +1,9 @@
 # neocities.org
 
+#APB style domain
+||neocities.org^
+
+#Old domains - too many to block individually
 0.0.0.0 neocities.org
 0.0.0.0 cuneiform.neocities.org
 0.0.0.0 that1archive.neocities.org
