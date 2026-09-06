@@ -1,5 +1,5 @@
-# amongusplay.online
 
+#Related Domains for: amongusplay
 0.0.0.0 amongusplay.online
 0.0.0.0 cpanel.amongusplay.online
 0.0.0.0 cpcalendars.amongusplay.online
