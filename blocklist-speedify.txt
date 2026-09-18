@@ -1,5 +1,5 @@
-# speedify.com
 
+#Related Domains for: speedify
 0.0.0.0 speedify.com
 0.0.0.0 msupport.speedify.com
 0.0.0.0 support.speedify.com
@@ -18,6 +18,7 @@
 0.0.0.0 my2.speedify.com
 0.0.0.0 cp.speedify.com
 0.0.0.0 community.speedify.com
+0.0.0.0 miri-staging.speedify.com
 0.0.0.0 get.speedify.com
 0.0.0.0 sdk.speedify.com
 0.0.0.0 api.speedify.com

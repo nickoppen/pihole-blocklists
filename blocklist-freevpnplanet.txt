@@ -1,10 +1,10 @@
-# freevpnplanet.com
 
+#Related Domains for: freevpnplanet
 0.0.0.0 freevpnplanet.com
 0.0.0.0 affiliate.freevpnplanet.com
 0.0.0.0 go.freevpnplanet.com
-0.0.0.0 debug.freevpnplanet.com
 0.0.0.0 rtb-useast.freevpnplanet.com
+0.0.0.0 debug.freevpnplanet.com
 0.0.0.0 rtb-useast-v4.freevpnplanet.com
 0.0.0.0 cdn.freevpnplanet.com
 0.0.0.0 old.freevpnplanet.com
@@ -12,6 +12,7 @@
 0.0.0.0 blog-test.freevpnplanet.com
 0.0.0.0 www.freevpnplanet.com
 0.0.0.0 cdn2-test.freevpnplanet.com
+0.0.0.0 cdn-dev2.freevpnplanet.com
 0.0.0.0 personal.freevpnplanet.com
 0.0.0.0 rtb-apac-v4.freevpnplanet.com
 0.0.0.0 dev-personal.freevpnplanet.com
@@ -24,16 +25,24 @@
 0.0.0.0 rtb-eu.freevpnplanet.com
 0.0.0.0 stage-cdn.freevpnplanet.com
 0.0.0.0 eu-west-3.freevpnplanet.com
+0.0.0.0 auth-ru.freevpnplanet.com
 0.0.0.0 cabinet.freevpnplanet.com
 0.0.0.0 stage.freevpnplanet.com
+0.0.0.0 ingress.freevpnplanet.com
 0.0.0.0 api.freevpnplanet.com
 0.0.0.0 login.freevpnplanet.com
 0.0.0.0 help.freevpnplanet.com
+0.0.0.0 tempmail-pfxadmin.freevpnplanet.com
+0.0.0.0 cpm.freevpnplanet.com
+0.0.0.0 dev-tempmail-pfxadmin.freevpnplanet.com
+0.0.0.0 rtb-uswest-v4.freevpnplanet.com
 0.0.0.0 dev.freevpnplanet.com
 0.0.0.0 account.freevpnplanet.com
 0.0.0.0 auth.freevpnplanet.com
+0.0.0.0 filter.freevpnplanet.com
 0.0.0.0 static.freevpnplanet.com
 0.0.0.0 cdn-test.freevpnplanet.com
+0.0.0.0 preprod.freevpnplanet.com
 0.0.0.0 rtb-eu-v4.freevpnplanet.com
 0.0.0.0 xml.freevpnplanet.com
 0.0.0.0 support.freevpnplanet.com
@@ -41,7 +50,7 @@
 0.0.0.0 seo-spider.freevpnplanet.com
 0.0.0.0 dev-tempmail-api.freevpnplanet.com
 0.0.0.0 dev-account.freevpnplanet.com
-0.0.0.0 eu-north-1.freevpnplanet.com
 0.0.0.0 rtb-apac.freevpnplanet.com
+0.0.0.0 eu-north-1.freevpnplanet.com
 0.0.0.0 content.freevpnplanet.com
 0.0.0.0 rtb-uswest.freevpnplanet.com

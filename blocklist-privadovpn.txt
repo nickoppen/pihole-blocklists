@@ -1,5 +1,5 @@
-# privadovpn.com
 
+#Related Domains for: privadovpn
 0.0.0.0 privadovpn.com
 0.0.0.0 blog.privadovpn.com
 0.0.0.0 signup.privadovpn.com

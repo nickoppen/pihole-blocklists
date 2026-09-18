@@ -1,5 +1,5 @@
-# hotspotshield.com
 
+#Related Domains for: hotspotshield
 0.0.0.0 hotspotshield.com
 0.0.0.0 support.hotspotshield.com
 0.0.0.0 m.hotspotshield.com
@@ -22,14 +22,18 @@
 0.0.0.0 s1.hotspotshield.com
 0.0.0.0 stage-www.hotspotshield.com
 0.0.0.0 qa.hotspotshield.com
-0.0.0.0 stage2-account.hotspotshield.com
 0.0.0.0 snap.hotspotshield.com
+0.0.0.0 stage2-account.hotspotshield.com
+0.0.0.0 url.hotspotshield.com
 0.0.0.0 eu.hotspotshield.com
 0.0.0.0 s2.hotspotshield.com
 0.0.0.0 aws-account.hotspotshield.com
+0.0.0.0 secure.hotspotshield.com
+0.0.0.0 auth.hotspotshield.com
 0.0.0.0 hft4762t.hotspotshield.com
 0.0.0.0 search.hotspotshield.com
 0.0.0.0 www.blog.hotspotshield.com
+0.0.0.0 legal.hotspotshield.com
 0.0.0.0 app.hotspotshield.com
 0.0.0.0 nwww.hotspotshield.com
 0.0.0.0 wp.hotspotshield.com
@@ -38,16 +42,18 @@
 0.0.0.0 repo.hotspotshield.com
 0.0.0.0 e-6387.stage.hotspotshield.com
 0.0.0.0 af-377.stage.hotspotshield.com
+0.0.0.0 dashboard.hotspotshield.com
 0.0.0.0 amptest.hotspotshield.com
 0.0.0.0 stage2-order.hotspotshield.com
-0.0.0.0 uk.hotspotshield.com
 0.0.0.0 get.hotspotshield.com
+0.0.0.0 uk.hotspotshield.com
 0.0.0.0 lp.hotspotshield.com
+0.0.0.0 l.hotspotshield.com
 0.0.0.0 origin-www.hotspotshield.com
 0.0.0.0 us.hotspotshield.com
 0.0.0.0 lego-test.hotspotshield.com
-0.0.0.0 ampstaging.hotspotshield.com
 0.0.0.0 stage-account.hotspotshield.com
+0.0.0.0 ampstaging.hotspotshield.com
 0.0.0.0 vpn.hotspotshield.com
 0.0.0.0 stage.app.hotspotshield.com
 0.0.0.0 aws.account.hotspotshield.com
@@ -67,8 +73,8 @@
 0.0.0.0 get.dev.hotspotshield.com
 0.0.0.0 dev.repo-tf.hotspotshield.com
 0.0.0.0 www.landing.hotspotshield.com
-0.0.0.0 do.hotspotshield.com
 0.0.0.0 account.origin.hotspotshield.com
+0.0.0.0 do.hotspotshield.com
 0.0.0.0 wptest.hotspotshield.com
 0.0.0.0 order.origin.hotspotshield.com
 0.0.0.0 qa-www.hotspotshield.com

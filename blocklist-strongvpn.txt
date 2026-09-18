@@ -1,5 +1,5 @@
-# strongvpn.com
 
+#Related Domains for: strongvpn
 0.0.0.0 strongvpn.com
 0.0.0.0 support.strongvpn.com
 0.0.0.0 blog.strongvpn.com
@@ -35,8 +35,8 @@
 0.0.0.0 sproxy.strongvpn.com
 0.0.0.0 eme2.dev.strongvpn.com
 0.0.0.0 staging.strongvpn.com
-0.0.0.0 tools.strongvpn.com
 0.0.0.0 cn.strongvpn.com
+0.0.0.0 tools.strongvpn.com
 0.0.0.0 beta2.strongvpn.com
 0.0.0.0 email-assets.es.strongvpn.com
 0.0.0.0 mail.strongvpn.com

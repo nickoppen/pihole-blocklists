@@ -1,5 +1,5 @@
-# tunnelbear.com
 
+#Related Domains for: tunnelbear
 0.0.0.0 tunnelbear.com
 0.0.0.0 help.tunnelbear.com
 0.0.0.0 click.tunnelbear.com
@@ -29,6 +29,7 @@
 0.0.0.0 test-manage.tunnelbear.com
 0.0.0.0 rawr.tunnelbear.com
 0.0.0.0 status.tunnelbear.com
+0.0.0.0 autodiscover.tunnelbear.com
 0.0.0.0 smtp.tunnelbear.com
 0.0.0.0 meet.tunnelbear.com
 0.0.0.0 logs.tunnelbear.com
@@ -46,8 +47,8 @@
 0.0.0.0 ssocks.tunnelbear.com
 0.0.0.0 test.tunnelbear.com
 0.0.0.0 prod-api-dashboard.tunnelbear.com
-0.0.0.0 ios.tunnelbear.com
 0.0.0.0 www.help.tunnelbear.com
+0.0.0.0 ios.tunnelbear.com
 0.0.0.0 email.tunnelbear.com
 0.0.0.0 science.tunnelbear.com
 0.0.0.0 monitoring.tunnelbear.com
@@ -57,8 +58,8 @@
 0.0.0.0 ssocks-staging.tunnelbear.com
 0.0.0.0 ctf.tunnelbear.com
 0.0.0.0 vpn.tunnelbear.com
-0.0.0.0 vpn-sdk-ghostbear-core.tunnelbear.com
 0.0.0.0 hivemind-extract.tunnelbear.com
+0.0.0.0 vpn-sdk-ghostbear-core.tunnelbear.com
 0.0.0.0 blog.tunnelbear.com
 0.0.0.0 grafana.tunnelbear.com
 0.0.0.0 staging2-api.tunnelbear.com
@@ -66,8 +67,8 @@
 0.0.0.0 bearpoll.tunnelbear.com
 0.0.0.0 mail.tunnelbear.com
 0.0.0.0 staging2-api-dashboard.tunnelbear.com
-0.0.0.0 api.tunnelbear.com
 0.0.0.0 staging-api-payment.tunnelbear.com
+0.0.0.0 api.tunnelbear.com
 0.0.0.0 rae-staging.tunnelbear.com
 0.0.0.0 docs.tunnelbear.com
 0.0.0.0 sinkhole.tunnelbear.com
@@ -79,6 +80,7 @@
 0.0.0.0 ecsdemo.tunnelbear.com
 0.0.0.0 www.mac.tunnelbear.com
 0.0.0.0 ns1.tunnelbear.com
+0.0.0.0 automation.tunnelbear.com
 0.0.0.0 staging-api-core.tunnelbear.com
 0.0.0.0 staging-remembackend.tunnelbear.com
 0.0.0.0 test-api-core.tunnelbear.com
